@@ -4,6 +4,8 @@ This is a simple injector program that allows you to inject a DLL into a target 
 Usage
 To use this program, follow the steps below:
 
+write in launch options -insecure
+
 Compile the program using a C++ compiler.
 Run the compiled program in a command prompt or terminal.
 Enter the path to the DLL file you want to inject.
